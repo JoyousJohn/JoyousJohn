@@ -4,6 +4,8 @@
 
 <br>
 
-<ins>Fav technologies:</ins>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyousJohn)
 
+<ins>Fav technologies:</ins>
+<br>
 ![](https://skills.syvixor.com/api/icons?perline=15&i=python,javascript,fastapi,jquery,mongo,railway,cursor,zed,crush,claudeai,cloudflare,newrelic)
